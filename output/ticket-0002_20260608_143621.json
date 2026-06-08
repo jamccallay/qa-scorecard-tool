@@ -1,0 +1,20 @@
+{
+  "scores": {
+    "greeting_and_opening": 9,
+    "understanding_the_issue": 9,
+    "resolution_quality": 10,
+    "empathy_and_tone": 10,
+    "compliance_and_process": 9
+  },
+  "overall_score": 9.4,
+  "pass_fail": "PASS",
+  "highlights": [
+    "Excellent empathy - immediately validated the customer's frustration about the 3-day wait",
+    "Efficient resolution with real-time verification by having customer test login while on the call"
+  ],
+  "flags": [
+    "Could have briefly explained what caused the verification flag to help customer understand the issue",
+    "Consider offering a callback number or direct escalation path in case future issues arise"
+  ],
+  "summary": "Marcus delivered an exemplary support interaction. He acknowledged the customer's frustration genuinely, resolved the account access issue quickly and efficiently, and added proactive value by documenting the account history. The call was professional, empathetic, and well-structured from start to finish."
+}

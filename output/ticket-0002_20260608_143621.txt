@@ -1,0 +1,32 @@
+=======================================================
+  BPO QA SCORECARD
+  Transcript: ticket-0002
+  Evaluated:  2026-06-08 14:36
+=======================================================
+
+SCORES
+-----------------------------------
+  Greeting And Opening         █████████░ 9/10
+  Understanding The Issue      █████████░ 9/10
+  Resolution Quality           ██████████ 10/10
+  Empathy And Tone             ██████████ 10/10
+  Compliance And Process       █████████░ 9/10
+
+  OVERALL SCORE:  9.4/10
+  RESULT:         PASS
+
+HIGHLIGHTS
+-----------------------------------
+  + Excellent empathy - immediately validated the customer's frustration about the 3-day wait
+  + Efficient resolution with real-time verification by having customer test login while on the call
+
+COACHING FLAGS
+-----------------------------------
+  ! Could have briefly explained what caused the verification flag to help customer understand the issue
+  ! Consider offering a callback number or direct escalation path in case future issues arise
+
+SUMMARY
+-----------------------------------
+  Marcus delivered an exemplary support interaction. He acknowledged the customer's frustration genuinely, resolved the account access issue quickly and efficiently, and added proactive value by documenting the account history. The call was professional, empathetic, and well-structured from start to finish.
+
+=======================================================
